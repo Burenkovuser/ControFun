@@ -10,8 +10,8 @@
 		FB35C3AC22FE86D8006649CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB35C3AB22FE86D8006649CA /* AppDelegate.swift */; };
 		FB35C3AE22FE86D9006649CA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB35C3AD22FE86D9006649CA /* ViewController.swift */; };
 		FB35C3B122FE86D9006649CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB35C3AF22FE86D9006649CA /* Main.storyboard */; };
-		FB35C3B322FE86DB006649CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB35C3B222FE86DB006649CA /* Assets.xcassets */; };
 		FB35C3B622FE86DB006649CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB35C3B422FE86DB006649CA /* LaunchScreen.storyboard */; };
+		FB35C3C022FE87BF006649CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB35C3BF22FE87BF006649CA /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,9 +19,9 @@
 		FB35C3AB22FE86D8006649CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FB35C3AD22FE86D9006649CA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FB35C3B022FE86D9006649CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FB35C3B222FE86DB006649CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB35C3B522FE86DB006649CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB35C3B722FE86DB006649CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB35C3BF22FE87BF006649CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../.Trashes/501/Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 				FB35C3AB22FE86D8006649CA /* AppDelegate.swift */,
 				FB35C3AD22FE86D9006649CA /* ViewController.swift */,
 				FB35C3AF22FE86D9006649CA /* Main.storyboard */,
-				FB35C3B222FE86DB006649CA /* Assets.xcassets */,
+				FB35C3BF22FE87BF006649CA /* Assets.xcassets */,
 				FB35C3B422FE86DB006649CA /* LaunchScreen.storyboard */,
 				FB35C3B722FE86DB006649CA /* Info.plist */,
 			);
@@ -123,7 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FB35C3B622FE86DB006649CA /* LaunchScreen.storyboard in Resources */,
-				FB35C3B322FE86DB006649CA /* Assets.xcassets in Resources */,
+				FB35C3C022FE87BF006649CA /* Assets.xcassets in Resources */,
 				FB35C3B122FE86D9006649CA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
